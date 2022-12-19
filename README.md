@@ -1,2 +1,2 @@
 # pass_gen
-A password generator written in Python. A learning project.
+A password generator written in Python. This is a project for me to practice learing Python.
